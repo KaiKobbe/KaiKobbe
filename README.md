@@ -1,0 +1,1 @@
+Hey! My name is **Kai Kobbe**, and I am a **Master’s student in Computer Science** at **TU Braunschweig**. My primary interests lie in the field of computational geometry, where I explore both theoretical problems and practical applications.
